@@ -2,7 +2,8 @@
 
 int main()
 {
-  //altro commento
+
+  //commento
   printf("ciao, come stai?\n");
   return(0);
 }
